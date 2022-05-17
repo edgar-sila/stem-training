@@ -1,1 +1,2 @@
 # stem-training
+## Day one
