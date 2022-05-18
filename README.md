@@ -1,7 +1,7 @@
 # stem-training
 ## Day one
 learning markdown installing python
-### Day three
+### Day two
 manipulating data types
 Python 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
@@ -41,3 +41,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> print(div)
 8.0
 >>> Python 3.
+#### Day three
