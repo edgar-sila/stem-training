@@ -21,5 +21,5 @@ advnce if statements
 while and for loops
 list
 Indexes
-Nested list
+:Nested list
 stringsat lists
