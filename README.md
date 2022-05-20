@@ -12,7 +12,7 @@
 
 #### Day three
 #making complex calc
-#control flow 1
+control flow 1
 #learn string operations and data types interface
 
 ##### Day four
