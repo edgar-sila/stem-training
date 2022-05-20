@@ -1,11 +1,11 @@
 # stem-training
 ## Day one
- #learning markdown 
- #installing python
- #setting up software
+ #learning markdown\n 
+ #installing python\n
+ #setting up software\n
 
 ### Day two
- #manipulating data types
+ #manipulating data types\n
   #eg;python data types
     #strings method
   #Building a simple calc
