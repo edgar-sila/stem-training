@@ -1,0 +1,27 @@
+from sys import implementation
+
+
+my_lists=[2,4,1,7,8,10,12]
+for element in my_lists:
+    print(element)
+other_lists=[]
+# other_lists.append(element)
+# print(other_lists)
+my_lists=[2,4,1,7,8,10,12]
+# other_lists=[element for element in my_lists]
+# print (other_lists)
+for element in my_lists:
+    if element%2==0:
+        other_lists.append(element)
+    print(other_lists)
+my_lists=[2,4,1,7,8,10,12]
+other_lists=[element for element in my_lists if element%2==0]
+print(other_lists)
+
+def add (a,b):
+    return a+b
+result=add(4,6)
+print(result)
+result_2=add(8,6)
+print(result_2)
+
