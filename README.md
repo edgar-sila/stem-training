@@ -29,19 +29,19 @@ For loops
 lists
 
 #####    Day six
--lists
--tuplets
--sets
--append
--clear
--pop
--remove
+- lists
+- tuplets
+- sets
+- append
+- clear
+- pop
+- remove
 ### Day seven
 kuccps aplication
 
 ### Day eight
--dictionaries
-functions
+- dictionaries
+- functions
 ###day nine
 
 
