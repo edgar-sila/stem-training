@@ -10,12 +10,12 @@
     #strings method\
   #Building a simple calc\
 
-#### Day three
+### Day three
 #making complex calc\
 control flow 1\
 #learn string operations and data types interface\
 
-##### Day four
+#### Day four
 #control flow 2\
 advnce if statements\
 while and for loops\
@@ -24,11 +24,11 @@ Indexes\
 :Nested list\
 stringsat lists\
 
-###### Day five
+### Day five
 For loops
 lists
 
-#####    Day six
+####    Day six
 - lists
 - tuplets
 - sets
@@ -42,7 +42,10 @@ kuccps aplication
 ### Day eight
 - dictionaries
 - functions
-###day nine
+-  
+###  Day nine
+- object oriented programme(oop)
+- 
 
 
       
