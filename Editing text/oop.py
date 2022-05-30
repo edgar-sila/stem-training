@@ -27,5 +27,4 @@ spitz.colour="darkbrown"
 print(spitz.colour)
 
 print("woof woof!")
-
    
