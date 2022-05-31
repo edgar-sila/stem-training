@@ -47,5 +47,10 @@ kuccps aplication
 - object oriented programme(oop)
 - 
 
-
+###  Day ten
+- graphical user interface
+- buttons
+- editing buttons
+- review on dict
+- 
       
